@@ -1,0 +1,20 @@
+{
+    "Author": "Jorg Klein",
+    "ContentSize": 8128,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/azure-analysis-services-scale-and-pause-or-resume-using-scheduled-autoscaling/master/AzureAnalysisServicesScheduledAutoscaling.ps1",
+    "DownloadCount": 5454,
+    "Id": "Scale-and-Pause-or-Resume-54ce97a2",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 24,
+    "RaterCount": 8,
+    "Rating": 4.9,
+    "ReleaseDate": "2017-9-25T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "Vertically scale up and down or pause/resume an Azure Analysis Services server according to a schedule using Azure Automation.",
+    "Title": "Azure Analysis Services - Scale and Pause or Resume using scheduled autoscaling",
+    "UpdatedDate": "2018-11-29T00:00:00",
+    "Url": "https://github.com/azureautomation/azure-analysis-services-scale-and-pause-or-resume-using-scheduled-autoscaling",
+    "UserTags": "Microsoft Azure, Powershell, Analysis Services"
+}
